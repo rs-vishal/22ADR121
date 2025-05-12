@@ -4,7 +4,7 @@
 
 ## 1.Correlation Response
 
-![Stock Correlation Response](./backendscrennshot1.png)
+![Stock Correlation Response](./backendscreenshot1.png)
 
 ---
 
